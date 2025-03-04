@@ -3,7 +3,7 @@
 <div align="center">
   <br />
   <a href="https://youtu.be/_sSTzz13tVY" target="_blank">
-    <img src="https://github.com/user-attachments/assets/your-banner-image.png" alt="Project Banner">
+    <img src="https://github.com/machadop1407/social-media-vite-supabase/blob/main/public/thumb.png" alt="Project Banner">
   </a>
   <br />
   <div>
