@@ -80,7 +80,7 @@ Watch the tutorial on [YouTube](https://youtu.be/_sSTzz13tVY).
 Run the following commands in your terminal:
 
 ```bash
-git clone https://github.com/machadop1407/social-media-vite-supabase.git
+git clone https://github.com/snjugunanjenga/social-media-vite-supabase.git
 cd social-media-tutorial
 ```
 
