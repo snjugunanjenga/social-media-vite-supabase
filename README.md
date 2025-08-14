@@ -21,6 +21,11 @@
   <br />
 </div>
 
+
+# Social Media Vite Supabase
+
+Visit the deployed app here: [https://developer-social-media-forums.vercel.app/](https://developer-social-media-forums.vercel.app/)
+
 ## 📋 Table of Contents
 
 1. [Introduction](#introduction)
