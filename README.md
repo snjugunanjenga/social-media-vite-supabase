@@ -76,11 +76,12 @@ Watch the tutorial on [YouTube](https://youtu.be/_sSTzz13tVY).
 
 Here are some previews of the app:
 
-![home-page](screenshots/home-page.png)
-![posting](screenshots/create-new-post.png)
-![commenting](screenshots/make-comments&likes.png)
-![create community](screenshots/create-communities.png)
-![communities](screenshots/communities.png)
+![home-page](screenshot/home-page.png)
+![posting](screenshot/create-new-post.png)
+![commenting](screenshot/make-comments-likes.png)
+![create community](screenshot/create-communities.png)
+![communities](screenshot/communities.png)
+
 
 
 
