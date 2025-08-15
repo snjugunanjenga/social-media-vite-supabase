@@ -72,6 +72,18 @@ Watch the tutorial on [YouTube](https://youtu.be/_sSTzz13tVY).
 - **Real-Time Data Updates:**  
   All interactions (posting, voting, commenting) update in real time using Supabase and React Query.
 
+## Screenshots
+
+Here are some previews of the app:
+
+![home-page](screenshots/home-page.png)
+![posting](screenshots/create-new-post.png)
+![commenting](screenshots/make-comments&likes.png)
+![create community](screenshots/create-communities.png)
+![communities](screenshots/communities.png)
+
+
+
 ## 👌 Quick Start
 
 ### Prerequisites
